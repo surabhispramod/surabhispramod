@@ -20,7 +20,7 @@
 - Web Development 
 - Data Visualization
 - Digital Content Designer
-- Programming (Python, Java, etc.) 
+
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=060606) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=plastic&logo=C++&color=060606) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java&color=060606) ![Bootstrap](https://img.shields.io/badge/-HTML%20%26%20CSS-05122A?style=plastic&logo=HTML-&-CSS&color=060606) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=Javascript&color=060606) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=PHP&color=060606) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=060606) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=060606) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=060606) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=plastic&logo=Pandas&color=060606) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=plastic&logo=Numpy&color=060606) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=plastic&logo=Matplotlib&color=060606) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=060606) ![Bootstrap](https://img.shields.io/badge/-Android%20Studio%20-05122A?style=plastic&logo=Android-Studio&color=060606)
