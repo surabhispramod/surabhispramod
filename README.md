@@ -5,7 +5,7 @@
 
 ### 🔗 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/surabhi-s-pramod-b30353230//)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surabhi-s-pramod-b30353230//)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/_surabhispramod_/)](https://www.instagram.com/_surabhispramod_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:surabhi16spramod@gmail.com)
 [![Github](https://img.shields.io/github/followers/Surabhispramod?label=Follow&style=social)](https://github.com/Surabhispramod)
