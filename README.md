@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning Reactjs,Redux Reactjs & TailwindCSS
+- 🌱 I’m currently learning on new Technologies
 - 📫 How to reach me: surabhi16spramod@gmail.com
 
 ### 🖥 Skills
